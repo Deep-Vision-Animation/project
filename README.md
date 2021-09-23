@@ -1,5 +1,7 @@
 # EmotioNow App
 
+A Computer Vision project that detects emotions using the webcam and returns alternatives of entertainment.
+
 ### Table of Contents
 
 1. [Home](#home)
